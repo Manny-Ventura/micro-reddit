@@ -2,10 +2,10 @@
 
 one:
   user_name: MyString
-  karma: 1
-  about: MyText
+  email: MyString
+  password: MyString
 
 two:
   user_name: MyString
-  karma: 1
-  about: MyText
+  email: MyString
+  password: MyString
